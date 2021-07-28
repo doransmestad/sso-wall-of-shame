@@ -1,3 +1,7 @@
+# Archived
+
+Please see the new repo here:  https://github.com/stopthessotax/sso-wall-of-shame
+
 # sso-wall-of-shame
 
 A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
